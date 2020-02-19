@@ -3,6 +3,8 @@
 
 
 # CUBE
+![](http://fluidmechanics.o.oo7.jp/x68000/cube.gif)
+
 At the time of release, I decided to give up trying to solve too much difficulty Gradius 3.
 I'm completely addicted to what I thought now.
 As soon as the cube 99 fire is released, super gamers are doing it
