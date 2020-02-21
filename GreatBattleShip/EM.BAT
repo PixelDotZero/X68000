@@ -1,0 +1,2 @@
+ttob /w ENEMY.TXT ENEMY.DAT
+

@@ -1,0 +1,2 @@
+ttob /w GBS_MOV.TXT GBS_MOV.DAT
+

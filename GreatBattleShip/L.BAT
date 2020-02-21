@@ -1,0 +1,1 @@
+cc /W /Y /k MAIN.o LIB.o APS.o TEKI.o ACTION.o TBL_4DOT.o SAC.o
