@@ -36,3 +36,12 @@ I think the atmosphere will come out even more)
 Hira-kun made the screen deletion when clearing.
 I think, "I think he's free, I don't know ..." (like a sound theater)
 When I was there, Hira who was near me became a victimWas. Gassho.
+
+Developed in 1991/3
+
+# Great Battle Ship
+![](http://fluidmechanics.o.oo7.jp/x68000/tc.gif)
+
+I developed it because I thought it was cool.
+
+Developed in 1991/12
