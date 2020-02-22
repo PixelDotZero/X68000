@@ -45,3 +45,14 @@ Developed in 1991/3
 I developed it because I thought it was cool.
 
 Developed in 1991/12
+
+# SATORI
+![](http://fluidmechanics.o.oo7.jp/x68000/satori.gif)
+
+"A game to avoid bullets."
+Also supports homing lasers and homing missiles.
+Replays are also possible.
+A tool for masochistic shooters.
+
+
+
